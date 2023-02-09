@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/DASPRiD/ssm-manager/compare/v1.0.1...v1.0.2) (2023-02-09)
+
+
+### Bug Fixes
+
+* use correct path for CLI import ([539a143](https://github.com/DASPRiD/ssm-manager/commit/539a143cdd8770638616759cf28589a8a40c6469))
+
 ## [1.0.1](https://github.com/DASPRiD/ssm-manager/compare/v1.0.0...v1.0.1) (2023-02-09)
 
 

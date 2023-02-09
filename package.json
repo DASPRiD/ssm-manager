@@ -1,6 +1,6 @@
 {
   "name": "ssm-manager-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A small utility to ease management of the AWS SSM parameter store",
   "type": "module",
   "scripts": {

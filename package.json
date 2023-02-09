@@ -1,5 +1,5 @@
 {
-  "name": "ssm-manager",
+  "name": "ssm-manager-cli",
   "version": "1.0.0",
   "description": "A small utility to ease management of the AWS SSM parameter store",
   "type": "module",
@@ -19,7 +19,8 @@
   "keywords": [
     "AWS",
     "SSM",
-    "Manager"
+    "Manager",
+    "CLI"
   ],
   "author": "Ben Scholzen 'DASPRiD' <mail@dasprids.de>",
   "license": "BSD-2-Clause",

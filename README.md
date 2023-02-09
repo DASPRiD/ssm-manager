@@ -6,7 +6,7 @@ for a given prefix to and from `YAML` files.
 ## Installation
 
 ```bash
-npm i -g ssm-manager
+npm i -g ssm-manager-cli
 ```
 
 ## Usage

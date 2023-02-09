@@ -1,5 +1,7 @@
 # SSM Manager
 
+[![Release](https://github.com/DASPRiD/ssm-manager/actions/workflows/release.yml/badge.svg)](https://github.com/DASPRiD/ssm-manager/actions/workflows/release.yml)
+
 A small utility to ease management of the AWS SSM parameter store. It allows you to export and import parameters
 for a given prefix to and from `YAML` files.
 

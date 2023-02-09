@@ -10,7 +10,7 @@
     "prepare": "husky install"
   },
   "bin": {
-    "ssm-manager": "bin/ssm-manager"
+    "ssm-manager": "bin/ssm-manager.js"
   },
   "files": [
     "bin/**/*",

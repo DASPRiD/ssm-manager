@@ -20,6 +20,7 @@ export const exportParameters = async (
         const result : GetParametersByPathCommandOutput = await ssm.getParametersByPath({
             Path: prefix,
             Recursive: true,
+            WithDecryption: true,
             NextToken: nextToken,
         });
         nextToken = result.NextToken;

@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/DASPRiD/ssm-manager/compare/v1.0.2...v1.0.3) (2023-02-10)
+
+
+### Bug Fixes
+
+* **export:** decrypt parameters on retrieval ([c66f6b7](https://github.com/DASPRiD/ssm-manager/commit/c66f6b7c1933b2d9129a40fcfce3e83bb755449c))
+
 ## [1.0.2](https://github.com/DASPRiD/ssm-manager/compare/v1.0.1...v1.0.2) (2023-02-09)
 
 

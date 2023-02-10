@@ -8,7 +8,8 @@
       "strict": true,
       "resolveJsonModule": true,
       "outDir": "dist",
-      "module": "es2022"
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext"
    },
    "include": [
       "src/**/*"

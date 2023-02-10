@@ -2,7 +2,7 @@ import {writeFile} from 'fs/promises';
 import {SSM} from '@aws-sdk/client-ssm';
 import type {
     GetParametersByPathCommandOutput,
-} from '@aws-sdk/client-ssm/dist-types/commands/GetParametersByPathCommand';
+} from '@aws-sdk/client-ssm/dist-types/commands/GetParametersByPathCommand.js';
 import {stringify} from 'yaml';
 import type {Parameters} from '../parameters.js';
 
